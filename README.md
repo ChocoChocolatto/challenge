@@ -1,15 +1,15 @@
-Why we want coding challenge?
-==================================
+Why did we come up with this coding challenge?
+==============================================
 
-We believe the best way to tell if you are an good engineer or not, is not from your CV, it should from your code.
+We believe the best way to tell if you are a good engineer or not, is not to simply read your CV, it should from your code.
 
-That's why we would like to decide few interesting challenges to let you to code before you join.
+That's why we have come up with a few coding challenges.
 
-Our hiring process usually like this:
+Our hiring process is usually like this:
 
-1. If you are reading this page, probablly we already woould like you to join us.
+1. If you are reading this page, we are interested and would like to explore the opportunity for you to join us.
 2. We expect you will spend 1-2 days to finish one of the [challenges](coding-challenge.md).
-3. You will be invited to our office, demo, explain to our team members that you will work with together if you joined.
+3. If the results are positive, you will be invited back to our office, demo, chat and explain your challenge results to our team members.
 
 
 Readme
@@ -17,8 +17,8 @@ Readme
 Write your README as if it was for a production service. Include the following items:
 
 * Description of the problem and solution.
-* Whether the solution focuses on back-end, front-end or if it's full stack.
-* Reasoning behind your technical choices, including architectural. 
+* Whether the solution focuses on back-end, front-end or full stack.
+* Reasons behind your technical choices, including architectural. 
 * Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project.
 * Link to other code you're particularly proud of.
 * Link to your resume or public profile.
@@ -27,7 +27,7 @@ Write your README as if it was for a production service. Include the following i
 How we review
 -------------
 
-Your application will be reviewed by at least `one` of our engineers. We do take into consideration your experience level.
+Your application will be reviewed by at least `one` of our engineers. We do take into consideration the level of your experience.
 
 **We value quality over feature-completeness**. It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
 
