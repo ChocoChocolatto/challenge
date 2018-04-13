@@ -1,7 +1,7 @@
 Coding Challenge Guidelines
 ===========================
 
-You can pick one of the challenges and try to finish it with 3-4 days.
+You can pick any one of the challenges and try to finish it with 3-4 days.
 
 Please organize, design, test, document and deploy your code as if it were
 going into production, then send us a link to the hosted repository (e.g.
@@ -79,13 +79,13 @@ Choose **one** of the following technical tracks that best suits your skillset:
 ### Back-end
 
 We believe there is no one-size-fits-all technology. Good engineering is about
-using the right tool for the right job, and constantly learning about them.
+using the right tools for the right job, and constantly learning about them.
 Therefore, feel free to mention in your `README` how much experience you have
 with the technical stack you choose, we will take note of that when reviewing
 your challenge.
 
 Here are some technologies we are more familiar with.
-Unless request by us, you can chooose any language to work on the challenge.
+Unless requested by us, you can chooose any language to work on the challenge.
 
 * Node.js
 * PHP
